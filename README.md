@@ -1,2 +1,2 @@
-# Project_MPEI
+# MPEI_Project
 A project made in Java to create a Bloom Filter counting, a Stochastic Counter and a MinHash
